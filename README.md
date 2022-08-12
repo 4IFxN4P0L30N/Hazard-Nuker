@@ -139,7 +139,6 @@ Change the following:
 ---
 
 ### ❗ Important
-* Found a bug? Join the [Discord](https://cheataway.com) and contact me (Rdimo) or create an issue about it directly in [here!](https://github.com/Rdimo/Hazard-Nuker/issues/new/choose)
 > **WARNING:** Many people have been selling/distributing infected versions of Hazard Nuker.
 > **DO NOT** install Hazard Nuker from any place other than this page. If you install it from somewhere else, expect to be **Hacked/Scammed.**
 
@@ -168,16 +167,5 @@ Run setup.bat, which will install all dependencies and open the script.
 After that, every time you'd like to use Hazard, simply open start.bat
 
 NOTE: Make sure you have Python 3.9.5 or above installed from python.org (NOT MICROSOFT) & added to path.
-```
 
----
-
-🌟 **Enjoyed Hazard Nuker?** Consider dropping a star :)
-
-<a href="https://cheataway.com" target="_blank"><img src="https://discordapp.com/api/guilds/942426336348233799/widget.png?style=banner2" alt="Cheataway"/></a>
-
-**Hazard Stealer was created by Rdimo & DeKrypt.**
-
-Discord: Rdimo#6969 | DeKrypt#7777
-
-Website: https://cheataway.com/
+Website: https://instagram.com/gg.ifc
